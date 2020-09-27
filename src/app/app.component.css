@@ -35,9 +35,9 @@
  
 
   .team-member img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 14rem;
     height: 14rem;
-    border: 0.5rem solid rgba(0, 0, 0, 0.1);
   }
   .team-member h3 {
     margin-top: 1.5rem;
