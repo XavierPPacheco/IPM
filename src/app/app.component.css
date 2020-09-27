@@ -17,13 +17,14 @@
 
   .container-fluid p{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:20px;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-    margin-right: 25rem;
-    margin-left: 25rem;
+    font-size:1.5rem;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-right: 25%;
+    margin-left: 25%;
     color: #595757;
     text-align: center;
+    justify-content:right;
 
   }
 
@@ -35,7 +36,7 @@
  
 
   .team-member img {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(48, 47, 47, 0.644), 0 6px 20px 0 rgba(48, 47, 47, 0.644);
     width: 14rem;
     height: 14rem;
   }
