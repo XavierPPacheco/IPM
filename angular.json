@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "ipm-website"
+  "defaultProject": "ipm-website",
+  "cli": {
+    "analytics": "e6e37208-f4d7-4776-a22d-d97b89ccafd6"
+  }
 }
