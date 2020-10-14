@@ -70,7 +70,8 @@
 
 #project{
     background-color: #f2f2f2;
-    ;
+    padding-bottom: 3%;
+    text-align: center;
 }
 
 .footer text-uppercase{
@@ -97,3 +98,4 @@
 #footer{
   background-color:  #f2f2f2;
 }
+
