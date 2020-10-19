@@ -1,4 +1,6 @@
-
+.container-fluid{
+  padding: 20px;
+}
 .image-cropper {
     width: 250rem;
     height: 250rem;
