@@ -71,7 +71,7 @@
 }
 
 #project{
-    background-color: #f2f2f2;
+    
     padding-bottom: 3%;
     text-align: center;
 }
@@ -100,4 +100,15 @@
 #footer{
   background-color:  #f2f2f2;
 }
+
+.img-thumbnail{
+  max-width: 200px;
+  max-height: 200px;
+  margin: 5rem;
+  margin-top: 1rem;
+}
+#phaseOne{
+  background-color:#f2f2f2 ;
+}
+
 
