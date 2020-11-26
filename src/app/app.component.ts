@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ipm-website';
+
+  myFunction = () => {
+    alert("clicked")
+    document.getElementById("myDropdown").classList.toggle("show");
+    console.log( document.getElementById("myDropdown"))
+  }
 }
+
