@@ -11,7 +11,6 @@ export class AppComponent {
   myFunction = () => {
     alert("clicked")
     document.getElementById("myDropdown").classList.toggle("show");
-    console.log( document.getElementById("myDropdown"))
   }
 }
 
