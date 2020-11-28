@@ -214,3 +214,19 @@ h4{
   font-family: "Open Sans Condensed", Gabriola;
   font-size: 35px;
 }
+
+.downloadmobile{
+  display: none !important;
+}
+
+@media screen and (max-width: 800px) {
+  .downloadmobile{
+    display: inline-block!important;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .downloadmobile{
+    margin-left: 50%;
+  }
+}
