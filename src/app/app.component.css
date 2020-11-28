@@ -192,10 +192,7 @@ h4{
 }
 
 .overlay {
-  width: 351px;
-  height: 143px;
   position: absolute;
-  bottom: 0px;
   text-align: center;
   opacity: 0;
   transition: .5s ease;
@@ -203,13 +200,17 @@ h4{
   width: 198px;
   height: 114px;
   margin-left: 81px;
- 
+  bottom: 81px;
 }
 
 .containerImg {
   position:relative;
 }
 
-.text {
-  
+.stagecontainer {
+  display: flex;
+}
+.text{
+  font-family: "Open Sans Condensed", Gabriola;
+  font-size: 35px;
 }
