@@ -236,3 +236,8 @@ h4{
     margin-left: 50%;
   }
 }
+
+#android{
+  max-width: 300px;
+  max-height: 300px;
+}
