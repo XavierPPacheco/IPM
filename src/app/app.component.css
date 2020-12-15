@@ -209,7 +209,17 @@ h4{
 
 .stagecontainer {
   display: flex;
+  margin: auto;
+  width: 50%;
 }
+
+.stagecontainer2 {
+  display: flex;
+  margin: auto;
+  width: 75%;
+}
+
+
 .text{
   font-family: "Open Sans Condensed", Gabriola;
   font-size: 35px;
